@@ -11,5 +11,8 @@ I'm also building a memory map reference available [here](https://c128lib.github
 Thank you for been here, if you want to contribute (to the project and/or the reference guide) you're welcome, skills required are:
 * 6502/8502 assembly and architecture
 * KickAssembler
+* (obviusly) Git commit/pull/push/pull request and integration with GitHub
 
-If you want to contribute, send me an email (raffaele.intorcia at gmail.com) with your GitHub account name.
+In this case, send me an email (raffaele.intorcia at gmail.com) with your GitHub account name.
+
+If you are already a developer team member you can start with [team discussion page](https://github.com/orgs/c128lib/teams) or [project page](https://github.com/orgs/c128lib/projects/1)
