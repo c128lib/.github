@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![C128 first screen](./resources/C128-animated.gif "C128 first screen")
+![c128lib logo 40 cols](./resources/logo-40.png "c128lib logo 40 column")![c128lib logo 80 cols](./resources/logo-80.png "c128lib logo 80 column")
 
 Here you'll find set of useful KickAssembler libraries for native Commodore 128-development as well as a few supporting tools.
 
