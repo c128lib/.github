@@ -2,11 +2,19 @@
 
 ![c128lib logo 40 cols](./resources/logo-40.png "c128lib logo 40 column")![c128lib logo 80 cols](./resources/logo-80.png "c128lib logo 80 column")
 
+### May/24 refactoring
+A refactoring of the c128lib organization will begin in May 2024.
+Two projects will be created, namely **labels** and **base**, which will respectively contain the most important labels for the c128 (system registers, kernal calls etc...) and a series of basic macros to easily interact with the components.
+Subsequently the **framework** project will be revised to depend on these two new projects. A legacy branch will be created with the dependencies currently present for historical needs but no updates or bugfixes will be produced.
+
+The two old projects **common** and **chipset** will be deprecated and will no longer be supported.
+
+### What does this organization contain
 Here you'll find set of useful KickAssembler libraries for native Commodore 128-development as well as a few supporting tools.
 
 This work is strongly inspired by the [c64lib](https://github.com/c64lib) project (created by [Maciej Małecki](https://github.com/maciejmalecki)), extending it where necessary to support the functionality of the C128.
 
-I'm also building a memory map reference available [here](https://c128lib.github.io/Reference).
+I'm also building a reference available [here](https://c128lib.github.io/Reference).
 
 Thank you for been here, if you want to contribute (to the project and/or the reference guide) you're welcome, skills required are:
 * 6502/8502 assembly and architecture
